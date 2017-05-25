@@ -1,0 +1,26 @@
+Name: Michael Stamatakis	
+Clemson Email Address: stamata@g.clemson.edu
+Course number: 8270
+
+Project no: 6
+Project due date:11-25-16
+
+Project description: This main goal of this project was to insert semantic actions 
+into the parser in order to evaluate the expressions:{x + y,
+x − y, x ∗ y, x/y, x//y, x%y, x∗∗e, (x), −x, +x}. The goal of this project was to use an OO solution to do this. The OO way of solving this problem with an abstract syntax tree, while at first has a few difficulties to solve, in the end provides a robust solution to handle the requirements of this project and the last one to come.
+
+Difficulties: Fun project, once it's working. It drove me a little crazy tracking down the bugs betweent the parser and my C++ code.
+
+Working:
+		basic scope
+		nested scope
+		return
+
+Not working well:
+		I'm pretty sure I need to peruse the code in order to get rid of a few more memory leaks... I got rid of some, but I think I left some still.
+		
+
+
+
+
+

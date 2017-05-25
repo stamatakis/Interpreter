@@ -1,0 +1,11 @@
+  // std::size_t found = var.find("()");
+	   // if (found != std::string::npos){
+	     //  tableManager& tabmgr = tableManager::getInstance();
+	     //  bool it = tabmgr.myFind(var);
+	     //  if(it ==true){
+	      //      $$ = new AstCall("fcall", var);
+	       		//funcCall = tabmgr.getVal(var);
+	       		//funcCall->myeval();
+	     //  }
+	   // }//
+	   // else{
